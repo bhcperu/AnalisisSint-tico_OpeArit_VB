@@ -1,0 +1,14 @@
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\bin\Debug\net8.0\Sintaxis_Ope_arit.exe
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\bin\Debug\net8.0\Sintaxis_Ope_arit.deps.json
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\bin\Debug\net8.0\Sintaxis_Ope_arit.runtimeconfig.json
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\bin\Debug\net8.0\Sintaxis_Ope_arit.dll
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\bin\Debug\net8.0\Sintaxis_Ope_arit.pdb
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\obj\Debug\net8.0\Sintaxis_Ope_arit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\obj\Debug\net8.0\Sintaxis_Ope_arit.AssemblyInfoInputs.cache
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\obj\Debug\net8.0\Sintaxis_Ope_arit.AssemblyInfo.vb
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\obj\Debug\net8.0\Sintaxis_Ope_arit.vbproj.CoreCompileInputs.cache
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\obj\Debug\net8.0\Sintaxis_Ope_arit.dll
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\obj\Debug\net8.0\refint\Sintaxis_Ope_arit.dll
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\obj\Debug\net8.0\Sintaxis_Ope_arit.pdb
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\obj\Debug\net8.0\Sintaxis_Ope_arit.genruntimeconfig.cache
+C:\Users\MASTER\source\repos\Sintaxis_Ope_arit\Sintaxis_Ope_arit\obj\Debug\net8.0\ref\Sintaxis_Ope_arit.dll

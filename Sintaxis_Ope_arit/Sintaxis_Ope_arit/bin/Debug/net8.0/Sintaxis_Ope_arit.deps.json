@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sintaxis_Ope_arit/1.0.0": {
+        "runtime": {
+          "Sintaxis_Ope_arit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sintaxis_Ope_arit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
